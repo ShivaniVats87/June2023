@@ -1,1 +1,2 @@
 This is my second git file
+i am doing some changes
